@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(128, 128, 128);
+}
+
+td{
+    display: inline-block;
+    border: 1px solid black;
+    width: 10rem;
+    height: 10rem;
+}
